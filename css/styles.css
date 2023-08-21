@@ -1,16 +1,19 @@
 :root {}
 
+/* logo */
 
-
-.logo-web {
-    color: #4D5AE5;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
+.header-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-link {
+    text-decoration: none
 }
 
 body {
