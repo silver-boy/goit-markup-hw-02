@@ -1,4 +1,7 @@
-:root {}
+:root {
+    --main-font: "Roboto",
+        sans-serif;
+}
 
 /* header */
 
@@ -62,33 +65,4 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-}
-
-
-.address-nav {}
-
-.hero-section {
-    background-color: #2E2F42;
-}
-
-.hero-button {
-    color: #ffffff;
-    background: #4D5AE5;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
-}
-
-.hero-text-h1 {
-    color: #ffffff;
-    text-align: center;
-    font-family: Roboto;
-    font-size: 56px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 60px;
-    letter-spacing: 1.12px;
 }
