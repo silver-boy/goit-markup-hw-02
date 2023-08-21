@@ -29,12 +29,16 @@ link {
     list-style: none;
 }
 
-.header-nav-link {
+.list {
+    list-style: none;
+}
+
+.header-navi-link {
     text-decoration: none
 }
 
-.header-nav-link:hover,
-.header-nav-link:focus {
+.header-navi-link:hover,
+.header-navi-link:focus {
     color: #404bbf
 }
 
