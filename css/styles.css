@@ -191,7 +191,8 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #f4f4fd;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
     cursor: pointer;
 }
 
